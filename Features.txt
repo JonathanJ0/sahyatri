@@ -1,0 +1,18 @@
+React native application (Expo Framework):
+It has a BlockChain registration feature that creates a digital ID that includes basic KYC, emergency contacts, trip itinerary, valid for duraion of the trip.
+Has an alert button in danger zones and anomalies.
+Has an SOS button.
+Has a safety score. 
+It sends longitude, latitude, timestamp details of the user to the dashboard.
+
+MERN applicaiton:
+It has the total number of tourists, no. of Anamolies, no. of Inactive tourists
+has a map feature with markers of the tourists 
+Individual tourists timeline page feature
+visualization space
+
+AI model: 
+the AI model implements outlier detection and Path deviation algorithms
+
+
+- Feedback from the customers to update danger zones continuously
