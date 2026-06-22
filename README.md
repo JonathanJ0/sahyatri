@@ -1,4 +1,4 @@
-# Sahyatri
+# Sahyatri (Prototype)
 
 **Smart Tourist Safety Monitoring & Incident Response System**
 
